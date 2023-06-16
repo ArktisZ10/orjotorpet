@@ -13,10 +13,16 @@ export default function Home() {
           <Header active="/gallery" />
           <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 mt-3">
             {[
-              asset("/images/cabin-front.jpg"),
-              asset("/images/main-room.jpg"),
+              asset("/images/cottage.jpg"),
+              asset("/images/northern_orsjon.jpg"),
+              asset("/images/main_room_1.jpg"),
+              asset("/images/main_room_2.jpg"),
+              asset("/images/kitchen_main_room.jpg"),
               asset("/images/kitchen.jpg"),
-              asset("/images/terrace.jpg"),
+              asset("/images/bedroom.jpg"),
+              asset("/images/sleeping_loft.jpg"),
+              asset("/images/small_cabin.jpg"),
+              asset("/images/terrace.jpg")
             ].map((url) => (
               <img
                 src={url}

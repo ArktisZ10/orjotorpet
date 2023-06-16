@@ -55,7 +55,7 @@ export default function Home() {
               </div>
 
               <div class="flex-none">
-                <p class="text-sm">Sovstuga</p>
+                <p class="text-sm">Lillstuga</p>
                 <p class="text font-bold">1 (2 Sängar)</p>
               </div>
 
@@ -89,11 +89,11 @@ export default function Home() {
               <br />
 
               <p>
-                Sängarna är fördelade på följande vis:
+                Bäddarna är fördelade på följande vis:
                 <ul class="list-inside list-disc">
                   <li>I sovrummet finns 1 våningssäng</li>
-                  <li>På sovloftet finns 1 enkelsäng + 1 dubbelsäng</li>
-                  <li>I Sovstugan finns 2 enkelsängar</li>
+                  <li>På sovloftet finns 1 dubbelsäng och 1 enkelsäng</li>
+                  <li>I lillstugan finns 2 enkelsängar</li>
                 </ul>
               </p>
               <br />
@@ -119,7 +119,7 @@ export default function Home() {
                   <li>TV</li>
                   <li>Luft/luft värmepump med kyl- & värmefunktion</li>
                   <li>
-                    Möjlighet för fiske i bl a Örsjön där det finns ädelfisk
+                    Möjlighet för fiske i bl a Örsjön där det finns ädelfisk (Kräver fiskekort)
                   </li>
                   <li>Nära Glaskogens naturreservat</li>
                 </ul>

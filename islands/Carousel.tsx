@@ -10,19 +10,39 @@ import IconCircleChevronsLeft from "https://deno.land/x/tabler_icons_tsx@0.0.3/t
 const SLIDE_DATA = [
   {
     text: "Stugan",
-    url: asset("/images/cabin-front.jpg"),
+    url: asset("/images/cottage.jpg")
+  }, 
+  {
+    text: "Norra Örsjön",
+    url: asset("/images/northern_orsjon.jpg")
   },
   {
     text: "Allrum",
-    url: asset("/images/main-room.jpg"),
+    url: asset("/images/main_room_1.jpg")
+  },
+  {
+    text: "Allrum",
+    url: asset("/images/main_room_2.jpg")
   },
   {
     text: "Kök",
-    url: asset("/images/kitchen.jpg"),
+    url: asset("/images/kitchen.jpg")
+  },
+  {
+    text: "Sovrum",
+    url: asset("/images/bedroom.jpg")
+  },
+  {
+    text: "Sovloft",
+    url: asset("/images/sleeping_loft.jpg")
+  },
+  {
+    text: "Lillstugan",
+    url: asset("/images/small_cabin.jpg")
   },
   {
     text: "Uteplats",
-    url: asset("/images/terrace.jpg"),
+    url: asset("/images/terrace.jpg")
   },
 ];
 
