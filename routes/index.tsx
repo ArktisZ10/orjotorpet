@@ -39,8 +39,6 @@ export default function Home() {
                 <p class="text-sm">Lågsäsong</p>
                 <p class="text font-bold">5 900kr / vecka</p>
               </div>
-
-              <p class="text-sm">(Syftar sön - sön)</p>
             </StyledContainer>
 
             <StyledContainer class="flex md:flex-col flex-wrap gap-y-2 gap-x-4">
@@ -126,7 +124,7 @@ export default function Home() {
               </p>
               <br />
 
-              Ta kontakt för mer information: <strong>[EMAIL TBD]</strong>
+              Ta kontakt för mer information: <a href="mailto:orjsotorpet@gmail.com">orjsotorpet@gmail.com</a>
             </StyledContainer>
 
             <StyledContainer class="col-span-2">
